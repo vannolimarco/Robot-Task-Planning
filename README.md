@@ -110,7 +110,7 @@ Example (Ron takes Food Delivered):
       |__ ReportProjectPlanning_Vannoli_1860363.pdf #the report of the rpoject
       
 
-##Package used for this project (Python 3.6)
+## Package used for this project (Python 3.6)
 - more-itertools==8.1.0
 - jaraco.collections==3.0.0
 - networkx==1.11
