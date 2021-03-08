@@ -99,6 +99,7 @@ Example (Ron takes Food Delivered):
       |__ Gui.py
       |__ MainRonRobot.py
       |__ README-md this file
+      |__ PaperProjectPDDLPlanningRobot.pdf #paper/report
       !__ requirements.txt #all package necessary to run the project
       |__ RonEnvironment.py #the file that create the scene of tasks
       |__ RonPlanning.py #The file that create the Domain and knoledge to perform the 
