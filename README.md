@@ -59,11 +59,11 @@ Then,
 
 The project start with this interface:
 
-![start_int](Image/GuiStartInterface.jpg)
+![start_int](Image/GuiStartInterface.JPG)
 
 In this section the User decide the name and start the Interaction:
 
-![second_int](Image/GuiSecondInterface.jpg)
+![second_int](Image/GuiSecondInterface.JPG)
 
 In this section, you can choose the Task that Ron ha sto perform,
 Or you can vie the Model of Home of user in order to have an idea to 
