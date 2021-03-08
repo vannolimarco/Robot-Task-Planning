@@ -1,0 +1,9 @@
+more-itertools==8.1.0
+jaraco.collections==3.0.0
+networkx==1.11
+jaraco.functools==3.0.1
+ipythonblocks==1.9.0
+PySimpleGUI==4.34.0
+pygame==1.9.6
+pickleshare==0.7.5
+cloudpickle==1.2.2
